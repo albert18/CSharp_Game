@@ -1,0 +1,15 @@
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\bin\Debug\MobileXamarin.dll
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\bin\Debug\MobileXamarin.pdb
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\bin\Debug\MobileXamarin.MobileXamarin.apk
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\bin\Debug\MobileXamarin.MobileXamarin-Signed.apk
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\MobileXamarin.csprojResolveAssemblyReference.cache
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\MobileXamarin.dll
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\MobileXamarin.pdb
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\android\bin\MobileXamarin.MobileXamarin.apk
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\res\layout\main.xml
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\res\values\strings.xml
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\res\drawable\icon.png
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\R.cs.flag
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\uploadflags.txt
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\obj\Debug\MobileXamarin.dll.mdb
+C:\Test-ConsoleApplication\ConsoleApplication\MobileXamarin\bin\Debug\MobileXamarin.dll.mdb

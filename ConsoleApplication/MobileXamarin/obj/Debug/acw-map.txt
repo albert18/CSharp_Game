@@ -1,0 +1,4 @@
+MobileXamarin.MainActivity, MobileXamarin;md59754e47a1bdfe53c00a83a2aa1fd2fc5.MainActivity
+MobileXamarin.MainActivity, MobileXamarin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md59754e47a1bdfe53c00a83a2aa1fd2fc5.MainActivity
+MobileXamarin.MainActivity;md59754e47a1bdfe53c00a83a2aa1fd2fc5.MainActivity
+mobilexamarin.MainActivity;md59754e47a1bdfe53c00a83a2aa1fd2fc5.MainActivity
